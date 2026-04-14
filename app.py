@@ -1,7 +1,7 @@
 """
 CS 178 - Lab 16: Serverless Image Processing with AWS Lambda + S3
 app.py — Flask web server
-#Sam
+#Sam H
 This app lets a user upload an image through a web form.
 Your job (Exercise 1): replace the two placeholder bucket name strings
 below with your actual S3 bucket names.
